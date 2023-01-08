@@ -17,5 +17,5 @@ JavaScript, HTML, CSS. Main focus is on class inheritance. Inspired by Jonas Sch
 [visit the page](https://learnfl.github.io/proj-web-js-mapty/)
 
 ## Screenshots
-
-
+![Screen Shot 2023-01-08 at 4 59 04 PM](https://user-images.githubusercontent.com/86169204/211221133-c6369713-8eb6-46e4-9715-dff98cf26f0e.png)
+![Screen Shot 2023-01-08 at 4 58 43 PM](https://user-images.githubusercontent.com/86169204/211221121-33419fc9-f94d-4b14-a7be-12ca8344a18c.png)
