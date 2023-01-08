@@ -14,7 +14,7 @@ JavaScript, HTML, CSS. Main focus is on class inheritance. Inspired by Jonas Sch
 5. By clicking on a tile on the left, map will move to the location of that particular workout.
 
 ## See live page
-[visit the page]()
+[visit the page](https://learnfl.github.io/proj-web-js-mapty/)
 
 ## Screenshots
 ![Screen Shot 2023-01-08 at 3 20 09 PM](https://user-images.githubusercontent.com/86169204/211217210-6065e89c-c814-4d0a-b340-774917be1e02.png)
